@@ -5,7 +5,7 @@
         {{ data.title }}<br/>
         {{ data.description }}<br/>
     {% else %}
-        <div>Hello World! Requested id {{data}} not in database</div>
+        <div>{% include 'item_not_found.html' %}</div>
     {% endif %}
  
 </div>
