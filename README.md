@@ -1,2 +1,2 @@
 # codeCraft
-programming
+programming from Khan Academy
